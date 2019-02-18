@@ -103,5 +103,9 @@
 <node CREATED="1550501071360" ID="ID_1959740050" MODIFIED="1550501091977" TEXT="&#x6848;&#x4f8b;&#xff0c;&#x4e8c;&#x5206;&#x7c7b;&#x95ee;&#x9898;&#x6cdb;&#x5316;&#x8bef;&#x5dee;&#x4e0a;&#x754c;"/>
 </node>
 </node>
+<node CREATED="1550501364916" ID="ID_534443825" MODIFIED="1550501665178" POSITION="left" TEXT="1.7&#x751f;&#x6210;/&#x5224;&#x522b;&#x6a21;&#x578b;&#xff08;&#x5728;&#x76d1;&#x7763;&#x5b66;&#x4e60;&#x4e2d;&#xff09;">
+<node CREATED="1550501417457" ID="ID_1924378942" MODIFIED="1550501744760" TEXT="discriminative model"/>
+<node CREATED="1550501445562" ID="ID_1205709524" MODIFIED="1550501737709" TEXT="generative model"/>
+</node>
 </node>
 </map>
